@@ -4,9 +4,9 @@ Thanks for taking a moment of your precious time to review my profile.
 About me:
 
 - 👋 I'm excited about
-    * AI revolution : ChatGPT, Stable-Diffusion, & innovations, etc... *"How I Learned to Stop Worrying and Love the Impending Robot Apocalypse"*
-    * 
-    *
+    * AI revolution : ChatGPT, Stable-Diffusion, & innovations, etc... aka *"How I Learned to Stop Worrying and Love the Impending Robot Apocalypse"*
+    * Automated Farms & Automated Aquaponics
+    * Freedom of Speech, Freedom of the press, Freedom of information : as cornerstones of democracy actually working
 - 🔭 I’m currently working on : 
     * C#.NET/ASP.NET fullstack + microservice / development, management & systems integration
     * Containerization : Anisible/Docker/Kubernetes + Cloud (AWS, Azure, GCP)
