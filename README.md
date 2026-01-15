@@ -11,7 +11,6 @@ About me:
     * C#.NET/ASP.NET fullstack + microservice / development, management & systems integration
     * Containerization : Anisible/Docker/Kubernetes + Cloud (AWS, Azure, GCP)
     * SDLC Service Management, Cybersecurity, Log centralization (Open Search) & App Monitoring (Nagios)
-- 😄 Pronouns: He/him
 - 💬 Fun fact: I spent 2+ yrs doing *"Awesome computery stuff"* on a massive hospital ship in Africa
 - 📫 Reach me: via #Signal, #Slack, or #YeOldeTelegraph
 
