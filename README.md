@@ -22,8 +22,6 @@ About me:
           See also: sandwich is sandwich, pizza is pizza, and 'make worse tasting food'
           See also: equiv 'worst tasting' self laws for [social media, drugs, gambling]
     *    "Law as code" (all laws/law systems will eventually be codified into computer code.  When that happens, we'll use developer tools and KPIs for refactoring, measuring the code, debugging it, etc)
-    *    All family, political/military/civic/religious leaders, and employers want to bend you (and the focus of your life) into the shape that they need. 
-          Some may even say that they have your future, career tragectory, and best interests at heart, but very few humans have ever been motivated by anything but their own direct interests.
 - 📫 Reach me: via #Signal, #Slack, or #YeOldeMessageInABottle 
 
 
